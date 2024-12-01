@@ -1,0 +1,1 @@
+# Trying to answer the question, can drug consumption classification be done on basis of ethnicity and personality traits. Further more what if we have data for other durg consumptions and we incude that as well with ethnicity and personality traits for predicition of consumption of target drug. 
